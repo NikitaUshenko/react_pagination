@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,GACE,eACF,CAEA,cACE,kBACF,CAEA,SACE,oBACF","file":"main.c52259c0.chunk.css","sourcesContent":["li {\n  list-style: none;\n}\n\nli .is-active {\n  background: cornflowerblue;\n}\n\n.list li {\n  display: inline-block;\n}\n"]}
